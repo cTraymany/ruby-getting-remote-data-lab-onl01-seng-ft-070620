@@ -2,6 +2,9 @@
 
 class GetRequester
   
+  def initialize(url)
+    
+  end
   
   
   
