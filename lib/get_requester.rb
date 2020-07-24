@@ -1,6 +1,16 @@
 
 
-
+class GetRequester
+  
+  
+  
+  
+  
+  
+  
+  
+  
+end
 
 
 
